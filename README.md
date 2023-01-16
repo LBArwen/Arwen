@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Fayvv
-- 👀 I’m interested in F
-- 🌱 I’m currently learning A
-- 💞️ I’m looking to collaborate on Y
-- 📫 How to reach me V
+- 👋 Hi, I’m @Arwen
+- 👀 I’m interested in CO
+- 🌱 I’m currently learning DI
+- 💞️ I’m looking to collaborate on N
+- 📫 How to reach me G
 
 <!---
 Fayvv/Fayvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
